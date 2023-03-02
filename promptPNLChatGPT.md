@@ -102,31 +102,13 @@ Sugiereme un email redactado con estilo elocuente y divertido para informar mi a
 Sugiereme un correo para solicitar una reunión a un potencial cliente
 ```
 
-## Educación en habilidades blandas
+## Educación en habilidades blandas para el trabajo en equipos diversos
 
 ```sh
-¿Cómo puedo mejorar el pensamiento crítico?
-```
-```sh
-Listame los sesgos comunes en la toma de decisiones, relacionados con el pensamiento crítico
+Listar las características de la idiosincracia laboral de la cultura [pais]
 ```
 ```sh
 ¿Cuales son las mejores prácticas para dirigir una reunión?
-```
-```sh
-Sugiereme como facilitar un debate y fomentar la participación de todos los asistentes
-```
-```sh
-Listar que ganará mi audiencia despues de mi presentación sobre "los beneficios del trabajo remoto"
-```
-```sh
-Sugiéreme como aplicar la teoria del juego en una negociación
-```
-```sh
-Soy analista de negocio y necesito 10 preguntas claves formuladas con empatía para identificar las necesidades del cliente 
-```
-```sh
-Sugiéreme una frase audaz para sustentar un retraso en mis tareas asignadas haciendo enfasis que necesito el apoyo del equipo
 ```
 ```sh
 Sugiéreme 3 preguntas empáticas para inducir a la reflexione sobre una actitud poco colaborativa sin ser explícito
@@ -135,10 +117,16 @@ Sugiéreme 3 preguntas empáticas para inducir a la reflexione sobre una actitud
 Sugiéreme 3 frase empáticas para reconocer el buen desempeño
 ```
 ```sh
-Escribe de manera elocuente, genial y en 30 palabras como un analista de negocio debe desarrollar su guión gráfico
+Sugiéreme una frase audaz para sustentar un retraso en mis tareas asignadas haciendo enfasis que necesito el apoyo del equipo
+```
+
+## Educación en habilidades blandas para argumentar y negociar
+
+```sh
+Listar los tipos de sesgos más comunes
 ```
 ```sh
-Lístame los tipos de falacias mas comunes
+Listar los tipos de falacias más comunes
 ```
 ```sh
 ¿Cómo argumentar una falacia ad autoridad?
@@ -151,6 +139,33 @@ Sugiéreme 3 frase empáticas para argumentar una falacia de autoridad
 ```
 ```sh
 Sugiéreme 3 frase empáticas para argumentar una falacia ad hominem 
+```
+```sh
+Sugiereme un correo para argumentar a un cliente que reconsidere la oferta inicial sin ser explícito
+```
+```sh
+Sugiéreme como aplicar la teoria del juego en una negociación
+```
+
+## Educación en habilidades blandas para el liderazgo
+
+```sh
+¿Cómo puedo mejorar el pensamiento crítico?
+```
+```sh
+Listame los sesgos comunes en la toma de decisiones, relacionados con el pensamiento crítico
+```
+```sh
+Sugiéreme como facilitar un debate y fomentar la participación de todos los asistentes
+```
+```sh
+Listar que ganará mi audiencia despues de mi presentación sobre "los beneficios del trabajo remoto"
+```
+```sh
+Soy analista de negocio y necesito 10 preguntas claves formuladas con empatía para identificar las necesidades del cliente 
+```
+```sh
+Escribe de manera elocuente, genial y en 30 palabras como un analista de negocio debe desarrollar su guión gráfico
 ```
 
 ## Habilidades duras y resolución de problemas
@@ -192,29 +207,27 @@ Genera un codigo en c# para realizar un scraping utilizando código nativo
 Muéstrame la fórmula de la media aritmética
 ```
 ```sh
-generame un caso de estudio fictio sobre alquiler de espacios comerciales para realizar un diagrama de caso de uso UML 
+Genérame un caso de estudio fictio sobre alquiler de espacios comerciales para realizar un diagrama de caso de uso UML 
 ```
 ```sh
-Sugiereme como aprender javascript con recursos de gamificación
+Sugiéreme como aprender javascript con recursos de gamificación
 ```
 Resumenes de documentos extensos:
 
 ```sh
 Resume el siguiente articulo:
 ```
-
 ```sh
-Resume en formato de viñetas
+Resumir en formato de viñetas el siguiente artículo:
 ```
-
 ```sh
-cuales son los pros y contras?
+Listar los pros y contras del siguiente artículo: 
 ```
 
 ## Análisis sentimental
 
 ```sh
-analiza el sentimiento de la siguiente frase "a tu manera es complicado"
+Analiza el sentimiento de la siguiente frase "a tu manera es complicado"
 ```
 
 ## Traducción:
