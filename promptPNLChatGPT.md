@@ -1,28 +1,59 @@
 #Prompt
 
-## _Lista de instrucciones PNL categorizada para CHATGPT_
+## _Lista de instrucciones categorizadas para CHATGPT_
 
-Aprende a mejorar tus conversaciones con ChatGPT utilizando técnicas de Programación Neurolingüística (PNL). En este repositorio encontrarás una lista de instrucciones sencillas que te permitirán comunicarte con ChatGPT de manera más efectiva, obteniendo respuestas más relevantes y precisas. Descubre cómo aplicar conceptos de PNL en el contexto de la interacción con ChatGPT y optimiza tu experiencia de conversación con esta herramienta de lenguaje natural.
+Aprende a mejorar tus conversaciones con ChatGPT utilizando lenguaje natural. En este repositorio encontrarás una lista de instrucciones sencillas que te permitirán comunicarte con ChatGPT de manera más efectiva, obteniendo respuestas más relevantes y precisas. Descubre cómo aplicar conceptos de PNL en el contexto de la interacción con ChatGPT y optimiza tu experiencia de conversación con esta herramienta de lenguaje natural.
 
-
-## Conceptos, definiciones, investigaciones y análisis:
+## Reconocimiento de identidad:
 
 ```sh
 ¿Quién escribió los principios solid?
 ```
 
 ```sh
-Busca un artículo científico sobre los beneficios de la gamificación
+¿Quién propuso por primera vez la computación cuántica?
 ```
 
 ```sh
-¿cuantos diagramas hay en uml 2.5?
+¿A quién se le atribuye la frase "el futuro se construye de atrás para adelante"?
+```
+
+
+## Busqueda de investigaciones y artículos:
+
+```sh
+Busca un artículo cientifico sobre programación paralela
+```
+
+```sh
+Encuentra un artículo sobre las matemáticas en el repositorio de arXiv
+```
+
+```sh
+Citame un artículo académico sobre inteligencia artificial
+```
+
+## Conceptos y definiciones:
+
+
+```sh
+Escribe un ensayo sobre micro front-end
+```
+
+```sh
+Resume los diagramas de UMl 2.5
 ```
 ```sh
-¿La postura de Nietzsche en su obra la genealogia de la moral es correcta?
+define github copilot
 ```
 ```sh
-Dime que ciudades o distritos estan experimentando gentrificación en Perú
+Explica el término tecnófilo
+```
+```sh
+Explica HTML como si tuviera 5 años
+```
+```sh
+Lista los pros y contras de la programación reactiva
 ```
 
 
@@ -31,32 +62,31 @@ Dime que ciudades o distritos estan experimentando gentrificación en Perú
 ```sh
 sugiereme un texto de 50 palabras con emojis para redes sociales agradeciendo la asistencia al taller de "introducción a C#"
 ```
-
-
-
+```sh
+Escribe un guión para tiktok en un tono informal explicando el funcionamiento de RPA
+```
 
 
 ## Guiones de presentaciónes y resumenes
 
 ```sh
-Escribe un guión para una presentación a toda la empresa sobre la importancia del trabajo en equipo
+Escribe un guión para una charla sobre la importancia del trabajo en equipo
 ```
 ```sh
 Escribe un guión para pedir la implementación del horario de verano en la empresa
 ```
 ```sh
-resumir la trama de la pelicula "el señor de los anillos"
+resumir la historia de los cypherpunks
 ```
 ```sh
 crear un curriculum vitae para aplicar a un trabajo de software developer
 ```
 ```sh
-dame un titulo genial y cuentame una historia increible sobre Bill Gates que motive a jovenes continuar en la industria de la tecnologia
+Sugiereme un título genial y cuentame una historia increible sobre Bill Gates que motive a jovenes emprendedores
 ```
 ```sh
-cuentame una historia increible sobre la lucha de los cypherpunk por la libertad narrada de manera elocuente y fantástica y empática
+cuentame una historia increible sobre SpaceX narrada de manera elocuente, fantástica y empática
 ```
-
 
 
 ## Educación en habilidades blandas
@@ -65,7 +95,7 @@ cuentame una historia increible sobre la lucha de los cypherpunk por la libertad
 ¿Cómo puedo mejorar el pensamiento crítico?
 ```
 ```sh
-¿Cuales son algunos sesgos comunes en la toma de decisiones, relacionados con el pensamiento crítico?
+Listame los sesgos comunes en la toma de decisiones, relacionados con el pensamiento crítico
 ```
 ```sh
 ¿Cuales son las mejores prácticas para dirigir una reunión?
@@ -80,7 +110,7 @@ sugiereme un guion para solicituar ser faculty de una charla en la empresa
 Escribe un guión para pedir la implementación del horario de verano en la empresa
 ```
 ```sh
-Escribe un guión motivador y asertivo para una presentación a toda la empresa sobre la importancia del trabajo en equipo
+Escribe un guión motivador para una presentación a toda la empresa sobre la importancia del trabajo en equipo
 ```
 ```sh
 Listame que ganará mi audiencia despues de mi presentación sobre "los beneficios del trabajo remoto"
@@ -120,37 +150,109 @@ sugiereme 3 frase empatica, asertiva y estoica para argumentar una falacia ad ho
 
 ## Habilidades duras y resolución de problemas
 
+```sh
 ¿Cómo puedo importar un csv en Excel?
+```
+
+```sh
 ¿Cómo puedo hacer una presentación con diseño sofisticado en powerpoint?
+```
+
+```sh
 ¿Cómo puedo hacer un código API en C#?
+```
+
+```sh
 Genera un codigo api en c#
+```
+
+```sh
 Genera un script en python para realizar scraping a una página web
+```
+
+```sh
 genera un script en lenguaje plantuml para un diagrama de actividades de un restaurante
+```
+
+```sh
 sugiereme un codigo en c# para calcular el área de un poligono regular
+```
+
+```sh
 Depura el siguiente código
+```
+
+```sh
 sugiereme un challenge de programación en C# de complejidad media sobre aritmetica o geometria
+```
+
+```sh
 genera un codigo de reconocimiento facil en c#
+```
+
+```sh
 genera un codigo en c# para realizar un scraping utilizando código nativo
+```
+
+```sh
 muestrame la formula de la media aritmetica
+```
+
+```sh
 redacta un correo informando que estaré de vacaciones narrado de forma amigable, elocuente y genial
-generame un documento de caso de estudio fictio con la descripcion del flujo de operaciones del área de ventas de un centro comercial que alquila espacios para tiendas de grandes superficies con el proposito de realizar un diagrama de caso de uso UML 
+```
+
+```sh
+generame un documento de caso de estudio fictio con la descripcion del flujo de operaciones
+del área de ventas de un centro comercial que alquila espacios para tiendas de grandes superficies con el proposito de realizar un diagrama de caso de uso UML 
+```
+
+```sh
+Sugiereme como aprender javascript con recursos de gamificación
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
+```sh
+```
+
 
 
 
 
 Resumenes de documentos extensos:
 
+```sh
 Resume el siguiente articulo:
+```
+
+```sh
 Resume en formato de viñetas
+```
+
+```sh
 cuales son los pros y contras?
+```
 
-Análisis sentimental
 
+## Análisis sentimental
+
+
+```sh
 analiza el sentimiento de la siguiente frase "a tu manera es complicado"
+```
 
 
+## Traducción:
 
-
-Traducción:
-
+```sh
 Traduce el siguiente artículo al idioma español
+```
+
