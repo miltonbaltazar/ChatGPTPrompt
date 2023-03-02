@@ -57,7 +57,7 @@ Lista los pros y contras de la programación reactiva
 ```
 
 
-## Blog, Marketing, redes sociales
+## Blog, marketing, redes sociales
 
 ```sh
 sugiereme un texto de 50 palabras con emojis para redes sociales agradeciendo la asistencia al taller de "introducción a C#"
