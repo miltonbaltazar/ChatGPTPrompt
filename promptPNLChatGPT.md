@@ -30,7 +30,7 @@ Encuentra un artículo sobre las matemáticas en el repositorio de arXiv
 ```
 
 ```sh
-Citame un artículo académico sobre inteligencia artificial
+Cítame un artículo académico sobre inteligencia artificial
 ```
 
 ## Conceptos y definiciones:
@@ -57,19 +57,19 @@ Lista los pros y contras de la programación reactiva
 ```
 
 
-## Blog, marketing, redes sociales
+## Blog, marketing y redes sociales
 
 ```sh
-sugiereme un texto de 50 palabras con emojis para redes sociales agradeciendo la asistencia al taller de "introducción a C#"
+Sugiéreme un texto de 50 palabras con emojis para redes sociales agradeciendo la asistencia al taller de "introducción a C#"
 ```
 ```sh
 Escribe un guión para tiktok en un tono informal explicando el funcionamiento de RPA
 ```
 ```sh
-Sugiereme un título genial y cuentame una historia increible sobre Bill Gates que motive a jovenes emprendedores
+Sugiéreme un título genial y cuentame una historia increible sobre Bill Gates para motivar a jovenes emprendedores
 ```
 ```sh
-cuentame una historia increible sobre SpaceX narrada de manera elocuente, fantástica y empática
+Cuéntame una historia increible sobre SpaceX narrada de manera elocuente, fantástica y empática
 ```
 
 ## Escribir guiones
@@ -84,7 +84,7 @@ Escribe un guión para pedir la implementación del horario de verano en la empr
 crear un curriculum vitae para aplicar a un trabajo de software developer
 ```
 ```sh
-sugiereme un guion para solicituar ser faculty de una charla en la empresa
+Sugiéreme un guion para solicituar ser faculty de una charla en la empresa
 ```
 
 ## Escribir resumenes
@@ -93,7 +93,7 @@ sugiereme un guion para solicituar ser faculty de una charla en la empresa
 resumir la historia de los cypherpunks
 ```
 
-## Escribir Email
+## Escribir correos electrónicos
 
 ```sh
 Sugiereme un email redactado con estilo elocuente y divertido para informar mi ausencia por periodo vacacional
